@@ -1,4 +1,4 @@
-class Delta < Formula
+class Spread < Formula
   desc "Run scripts and commands in multiple directories at once"
   homepage "https://github.com/tfogo/spread"
   url "https://github.com/tfogo/spread/releases/download/v1.0.0/spread-1.0.0.tar.gz"
