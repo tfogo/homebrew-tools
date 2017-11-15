@@ -1,8 +1,8 @@
 class Spread < Formula
   desc "Run scripts and commands in multiple directories at once"
   homepage "https://github.com/tfogo/spread"
-  url "https://github.com/tfogo/spread/releases/download/v1.0.0/spread-1.0.0.tar.gz"
-  sha256 "846bf48d037b0089b80cf20b5434524618c27f755d383fef12a1efd71e43c15c"
+  url "https://github.com/tfogo/spread/releases/download/v1.0.1/spread-1.0.1.tar.gz"
+  sha256 "c47d5ff74ad7ecbaef852607fbf570069ec4611dcaed1d281337f5d0c72644e5"
 
   bottle :unneeded
 
